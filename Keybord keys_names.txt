@@ -1,0 +1,56 @@
+				
+							Keyboard Keys Name
+						==============================
+
+1.)  Esc key - Abort the application or open win button using Ctrl + Esc
+2.)  Prt Sys key - Print the screen
+3.)  Scr Lock key - It is used in excel to move value all round 360 degree
+4.)  Pause Break key - It is used in cmd prompt to stop the application after than Ctrl + Pause Break key to quit the application
+5.)  Ins key - Overwrite the text
+6.)  Del key - Delete the word left to right
+7.)  Backspace key - Delete the word right to left
+7.)  Home key - Starting of the page
+8.)  End key - Ending of the page
+9.)  PG UP key - to move the page up
+10.) PG DOWN Key - to move the page down
+11.) Space Bar - to move the character
+12.) Tab - to move the character like space bar
+13.) Caps lock - Capital the letter or toggle the character
+14.) Shift - Toggle the character or Nothing it is used with other key like charcter keys or function keys
+15.) Window key - Open start button or it is used with other key like charcter keys or function keys
+16.) Ctrl key - Nothing it is used with other key like charcter keys or function keys
+17.) Alt key - Nothing it is used with other key like charcter keys or function keys
+18.) Enter key - Enter the text in newline
+
+					          Special Symbol name
+					      =============================
+	
+19.) `  - Back quote or Excute 
+20.) !  - Exclamation mark
+21.) @  - at the rate 
+22.) #  - Hash or Number Sign
+23.) $  - Doller Sign
+24.) %  - Percent Sign
+25.) ^  - Caret
+26.) &  - And or Amperstand
+27.) *  - Asterisk
+28.) -  = Hyphen or Minus or Dash
+29.) _  - underscore
+30.) ~  - Tilde
+31.) =  - equal to
+32.) +  - Plus
+33.) {} - Curly Bracket -> '{' - Open Curly Bracket or '}' - Close Curly Bracket
+34.) [] - Square Bracket -> '[' - Open Bracket or ']' -  Close Bracket
+35.) () - Parentheses -> '(' - Open Parentheses or ')' -  Close Parentheses
+36.) :  - colon
+37.) ;  - Semi colon
+38.) "  - Quotation mark or Inverted comma
+39.) '  - Single quote
+40.) <> - Angle Bracket -> '<' - Less than or '>' - Greater than
+41.) ,  - comma
+42.) .  - Dot or Full stop
+43.) ?  - Question Mark
+44.) /  - Forward Slash
+45.) \  - Backward Slash
+46.) |  - Pipe or Vertical Bar
+ 

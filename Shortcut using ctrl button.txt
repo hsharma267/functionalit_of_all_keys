@@ -1,0 +1,29 @@
+
+							Ctrl Shortcut
+						=============================
+1.)  Ctrl + A :- Used to Select All
+2.)  Ctrl + B :- Make the text Bold
+3.)  Ctrl + C :- Used for Copy
+4.)  Ctrl + D :- It is used for Deleting any folder or file or It is used to Bookmark The page in internet browser or Used for Copy in 			excel or Open font folder in MS Word 
+5.)  Ctrl + E :- Display Address bar in internet explorer or Used for Text Center in MS Word
+6.)  Ctrl + F :- Used for finding Any file and folder 
+7.)  Ctrl + G :- Used for Go to Function in MS Word and excel
+8.)  Ctrl + H :- Open History in internet Browser
+9.)  Ctrl + I :- Make the text italic in MS Word,Excel and Powerpoint
+10.) Ctrl + J :- Open Download in Internet Browser
+11.) Ctrl + K :- Insert Hyperlink in MS Word, Excel and Powerpoint
+12.) Ctrl + L :- Used for Text Justification in MS Word
+13.) Ctrl + M :- Used to make New Slide in MS Powerpoint
+14.) Ctrl + N :- To Open New file in MS Office or To Open New page in Internet browser
+15.) Ctrl + O :- To Open a file
+16.) Ctrl + P :- To Print a Document or A picture
+17.) Ctrl + Q :- It is used to close MS Powerpoint
+18.) Ctrl + R :- Reload the page in internet browser
+19.) Ctrl + S :- To Save Any Document
+20.) Ctrl + T :- Used for font in MS Powerpoint or Used for Hanging indent in MS Word or To open new Tab in internet browser
+21.) Ctrl + U :- Used for Underlining the text or Open source page of the internet browser
+22.) Ctrl + V :- Used for paste
+23.) Ctrl + W :- Used for closing Window command or Used for Closing tab in browser
+24.) Ctrl + X :- Used to Cut Any Text,Image or video
+25.) Ctrl + Y :- Used for Redo
+26.) Ctrl + Z :- Used for Undo

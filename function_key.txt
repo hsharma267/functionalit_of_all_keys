@@ -1,0 +1,14 @@
+					Function Key Shortcut
+				==================================
+1.)  Fn- F1 Open Help Center  
+2.)  Fn- F2 Rename 
+3.)  Fn- F3 Find in browser
+4.)  Fn- F4 Noting in browser but use with Alt key close the window or shutdown Pc 
+5.)  Fn- F5 Refresh the page
+6.)  Fn- F6 Directly go to URL
+7.)  Fn- F7 Nothing in browser but it is used for spelling check & grammer in MS Word, Excel
+8.)  Fn- F8 Save mode or select all text in MS Word
+9.)  Fn- F9 Nothing in browser but it is used in MS Word with Ctrl key {text}
+10.) Fn-F10 Nothing in browser but it is ued in MS Word with Shift key to open cursor right key
+11.) Fn-F11 Full screen mode 
+12.) Fn-F12 Open Save as mode
